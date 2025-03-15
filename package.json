@@ -2,8 +2,10 @@
   "name": "week-7.1",
   "version": "1.0.0",
   "main": "myfile.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node myfile.js"
   },
   "keywords": [],
   "author": "",
